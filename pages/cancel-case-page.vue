@@ -1,5 +1,7 @@
-<template>
-<h1> เพิ่่มนะอันนี้ </h1>
+<template><div>
+    <h1> เพิ่่มนะอันนี้ </h1>
+</div>
+
 </template>
 <script>
 export default {
